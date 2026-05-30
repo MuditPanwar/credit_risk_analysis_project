@@ -1,0 +1,50 @@
+{
+  "XGBoost":{
+    "CV_ROC_AUC_Mean":0.9969120785,
+    "CV_ROC_AUC_Std":0.0002147385,
+    "CV_F1_Mean":0.9722213686,
+    "CV_Accuracy_Mean":0.9723107256,
+    "Test_Accuracy":0.9508333333,
+    "Test_Precision":0.9047619048,
+    "Test_Recall":0.8877266388,
+    "Test_F1":0.8961633228,
+    "Test_ROC_AUC":0.9880917472,
+    "Test_Avg_Precision":0.9692731138
+  },
+  "Random Forest":{
+    "CV_ROC_AUC_Mean":0.9949748359,
+    "CV_ROC_AUC_Std":0.0004696159,
+    "CV_F1_Mean":0.9635599024,
+    "CV_Accuracy_Mean":0.9635817132,
+    "Test_Accuracy":0.9421666667,
+    "Test_Precision":0.8835568102,
+    "Test_Recall":0.8730822873,
+    "Test_F1":0.8782883199,
+    "Test_ROC_AUC":0.9809342872,
+    "Test_Avg_Precision":0.952812901
+  },
+  "LightGBM":{
+    "CV_ROC_AUC_Mean":0.9970907852,
+    "CV_ROC_AUC_Std":0.0003545596,
+    "CV_F1_Mean":0.9715285,
+    "CV_Accuracy_Mean":0.9716537681,
+    "Test_Accuracy":0.9493333333,
+    "Test_Precision":0.9070605187,
+    "Test_Recall":0.8779637378,
+    "Test_F1":0.8922749823,
+    "Test_ROC_AUC":0.9880663946,
+    "Test_Avg_Precision":0.9691008283
+  },
+  "Gradient Boosting":{
+    "CV_ROC_AUC_Mean":0.9963692064,
+    "CV_ROC_AUC_Std":0.0002381355,
+    "CV_F1_Mean":0.969665251,
+    "CV_Accuracy_Mean":0.9697765499,
+    "Test_Accuracy":0.9498333333,
+    "Test_Precision":0.8975438596,
+    "Test_Recall":0.8919107392,
+    "Test_F1":0.894718433,
+    "Test_ROC_AUC":0.9872856557,
+    "Test_Avg_Precision":0.966905378
+  }
+}
